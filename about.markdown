@@ -11,3 +11,5 @@ My primary professional interest is in freedom of expression and the limits ther
 Every so often - less so recently - my articles appear in newspapers, magazines and academic journals. I still speak at conferences from time to time. 
 
 The best way to get in touch with me is via email at the address below. Other email addresses are active, but I check them more sporadically.
+
+If you're looking for the information about Lauri's property case, that now lives over [here](https://auerfeld.github.io/laurippa/).
