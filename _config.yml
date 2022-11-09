@@ -23,11 +23,11 @@ email: naomi@auerfeld.com
 description: >- # this means to ignore newlines until "baseurl:"
   "I didn't get where I am today"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://auerfeld.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
   social_links:
-    twitter: auerfeld
+    twitter_username: auerfeld
     github:  auerfeld
     mastodon:
       - username: auerfeld
