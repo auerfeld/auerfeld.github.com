@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
   social_links:
-    twitter_username: auerfeld
+    twitter: auerfeld
     github:  auerfeld
     mastodon:
       - username: auerfeld
