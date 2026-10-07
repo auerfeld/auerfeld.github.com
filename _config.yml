@@ -26,9 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  auerfeld
-bluesky:
-- username: auerfeld
-  instance: bsky.social
+bluesky_username: auerfeld.bsky.social
+
 mastodon:
 - username: auerfeld
   instance: chaos.social
